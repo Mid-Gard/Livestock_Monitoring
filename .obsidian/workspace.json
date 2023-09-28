@@ -8,7 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b1af4c1cc962548",
+            "id": "25d6f89209891558",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "research papers/Capture7.PNG"
+              }
+            }
+          },
+          {
+            "id": "d6291e088cbacdc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,27 +157,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b1af4c1cc962548",
+  "active": "d6291e088cbacdc1",
   "lastOpenFiles": [
-    "research papers/old/Classification_of_Cattle_Behaviours_Using_Neck-Mou.pdf",
+    "research papers/Capture7.PNG",
     "research papers/old/s40317-015-0045-8.pdf",
+    "research papers/Capture6.PNG",
+    "research papers/old/Classification_of_Cattle_Behaviours_Using_Neck-Mou.pdf",
+    "research papers/new/cow_behaviour.pdf",
+    "Research Key-points.md",
+    "research papers/new/animals-12-01060.pdf",
+    "research papers/Capture5.PNG",
+    "research papers/Capture4.PNG",
+    "research papers/new/sensors-22-02323.pdf",
+    "research papers/Capture3.PNG",
+    "research papers/Capture2.png",
+    "research papers/Capture.PNG",
+    "Capture4.PNG.md",
     "research papers/old/recording_of_dairy_cows_behaviour_with_wireless_a-wageningen_university_and_research_176698.pdf",
     "research papers/old",
     "research papers/New folder",
-    "research papers/Capture.PNG",
-    "research papers/Capture1.PNG",
     "research papers/s40317-015-0045-8.pdf",
-    "Research Key-points.md",
-    "research papers/Capture6.PNG",
-    "research papers/Capture7.PNG",
-    "research papers/Capture5.PNG",
-    "research papers/Capture4.PNG",
     "research papers/Capture2.PNG",
-    "research papers/Capture3.PNG",
-    "research papers/new/sensors-22-02323.pdf",
-    "research papers/recording_of_dairy_cows_behaviour_with_wireless_a-wageningen_university_and_research_176698.pdf",
-    "research papers/Classification_of_Cattle_Behaviours_Using_Neck-Mou.pdf",
-    "research papers/new/cow_behaviour.pdf",
-    "research papers/new/cow_monitoring.pdf"
+    "research papers/recording_of_dairy_cows_behaviour_with_wireless_a-wageningen_university_and_research_176698.pdf"
   ]
 }
